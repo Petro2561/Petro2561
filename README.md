@@ -4,7 +4,8 @@
 
 Заходи посмотреть мой пет-проект https://t.me/please_dont_forget_bot?start==git
 
-Связаться со мной можно по ссылке ![Telegram](https://img.shields.io/badge/Telegram-%40petro2561-blue?style=flat&logo=telegram&link=https://t.me/petro2561)
+Связаться со мной можно по ссылке [![Telegram](https://img.shields.io/badge/Telegram-%40petro2561-blue?style=flat&logo=telegram)](https://t.me/petro2561)
+
  или почте andreev.pete@gmail.com
 <!--
 **Petro2561/Petro2561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
