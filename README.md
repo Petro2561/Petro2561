@@ -3,10 +3,10 @@
 Я backend-разработчик. 
 Больше всего работал с telegram ботами и юзерботами, интеграциями с AI, а также занимался web-разработкой на Django + DRF.
 
-Заходи посмотреть мой пет-проект https://t.me/please_dont_forget_bot?start==git
+Заходи посмотреть мой пет-проект - AI помощник для напоминаний
+https://t.me/please_dont_forget_bot?start==git
 
 Связаться со мной можно по ссылке [![Telegram](https://img.shields.io/badge/Telegram-%40petro2561-blue?style=flat&logo=telegram)](https://t.me/petro2561)
-Это AI помощник для напоминаний
 
  или почте [![Email](https://img.shields.io/badge/Email-andreev.pete%40gmail.com-blue?style=flat&logo=gmail)](mailto:andreev.pete@gmail.com)
 
