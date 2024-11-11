@@ -2,7 +2,7 @@
 
 Я backend-разработчик больше всего работал с telegram ботами и юзерботами, интеграциями с AI, а также занимался web-разработкой на Django + DRF
 
-Заходи посмотреть мой пет-проект https://t.me/please_dont_forget_bot&start==git
+Заходи посмотреть мой пет-проект https://t.me/please_dont_forget_bot?start==git
 
 Связаться со мной можно по ссылке https://t.me/petro2561 или почте andreev.pete@gmail.com
 <!--
