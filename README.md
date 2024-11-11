@@ -6,7 +6,7 @@
 Заходи посмотреть мой пет-проект - AI помощник для напоминаний
 https://t.me/please_dont_forget_bot?start==git
 
-Связаться со мной можно по ссылке [![Telegram](https://img.shields.io/badge/Telegram-%40petro2561-blue?style=flat&logo=telegram)](https://t.me/petro2561)
+Связаться со мной можно в тг [![Telegram](https://img.shields.io/badge/Telegram-%40petro2561-blue?style=flat&logo=telegram)](https://t.me/petro2561)
 
  или почте [![Email](https://img.shields.io/badge/Email-andreev.pete%40gmail.com-blue?style=flat&logo=gmail)](mailto:andreev.pete@gmail.com)
 
